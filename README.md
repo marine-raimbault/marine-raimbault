@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>100 Pythons projects in 100 days</b> 
+  - [Practicing GUI](https://github.com/marine-raimbault/-Day18-Intermediate-Turtle-the-Graphical-User-Interface-GUI-)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
