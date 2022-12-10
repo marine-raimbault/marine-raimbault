@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>100 Pythons projects in 100 days</b> 
+- <b>Python</b> <a href="https://www.udemy.com/course/100-days-of-code/">[Udemy: 100 projects]</a>
   - [Practicing GUI](https://github.com/marine-raimbault/-Day18-Intermediate-Turtle-the-Graphical-User-Interface-GUI-)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
