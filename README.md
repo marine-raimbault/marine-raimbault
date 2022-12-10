@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>This page is in development, I'm modifying it using following content: </b><a href="https://github.com/joshmadakor1/joshmadakor1/blob/main/README.md">Joshmadakor</a>
 - <b>Python</b> <a href="https://www.udemy.com/course/100-days-of-code/">[Udemy: 100 projects]</a>
   - [Practicing GUI](https://github.com/marine-raimbault/-Day18-Intermediate-Turtle-the-Graphical-User-Interface-GUI-)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
