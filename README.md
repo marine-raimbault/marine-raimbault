@@ -12,9 +12,10 @@
 -->
 
 - <b>Python</b> 
-  - [Practicing GUI](https://github.com/marine-raimbault/-Day18-Intermediate-Turtle-the-Graphical-User-Interface-GUI-)
+  - [100 Projects with the 100 days Challenge](https://github.com/marine-raimbault/-Day18-Intermediate-Turtle-the-Graphical-User-Interface-GUI-)
 
-
+- <b>C++</b> 
+  - [RWTH Course: Einführung in die Programmierung in C++ (in German)](https://www.stce.rwth-aachen.de/teaching/winter-semester-2020-21/einfuhrung-in-die-programmierung-mit-c)
 
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
