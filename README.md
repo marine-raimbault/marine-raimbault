@@ -1,10 +1,17 @@
-<h1>Hi, I'm Marine! <br/><a href="https://github.com/marine-raimbault">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Medical student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Marine! <br/><a href="https://github.com/marine-raimbault">Programmer</a>, <a href="put linkedin here">Medical student</a>, <a href="put yt link here">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+
+<!--
 - <b>This page is in development, I'm modifying it using following content: </b><a href="https://github.com/joshmadakor1/joshmadakor1/blob/main/README.md">Github with Joshmadakor</a>
+-->
+
 - <b>Python</b> 
   - [Practicing GUI](https://github.com/marine-raimbault/-Day18-Intermediate-Turtle-the-Graphical-User-Interface-GUI-)
+
+
+
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
