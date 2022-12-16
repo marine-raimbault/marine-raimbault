@@ -5,6 +5,7 @@
 - <b>This page is in development, I'm modifying it using following content: </b><a href="https://github.com/joshmadakor1/joshmadakor1/blob/main/README.md">Github with Joshmadakor</a>
 - <b>Python</b> <a href="https://www.udemy.com/course/100-days-of-code/">Udemy-course: 100 projects</a>
   - [Practicing GUI](https://github.com/marine-raimbault/-Day18-Intermediate-Turtle-the-Graphical-User-Interface-GUI-)
+<!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -41,7 +42,7 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
+
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
