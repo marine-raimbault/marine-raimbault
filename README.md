@@ -1,4 +1,8 @@
-<h1>Hi, I'm Marine! <br/><a href="https://github.com/marine-raimbault">Programmer</a>, <a href="put linkedin here">Medical student</a>, <a href="put yt link here">YouTuber</a></h1>
+<h1>Hi, I'm Marine! <br/><a href="https://github.com/marine-raimbault">Programmer</a> and  <a href="put linkedin here">Medical student</a>
+
+<!--  
+  , <a href="put yt link here">YouTuber</a></h1>
+-->
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
