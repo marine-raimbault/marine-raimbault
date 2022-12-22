@@ -12,14 +12,14 @@
 -->
 
 - <b>Python</b> 
-  - [100 Projects with the 100 days Python Challenge](https://github.com/marine-raimbault/-Day18-Intermediate-Turtle-the-Graphical-User-Interface-GUI-)
-  - [DATA ANALYSIS WITH PYTHON COURSE](https://platform-ui.topcoder.com/learn/freeCodeCamp/data-analysis-with-python/data-analysis-with-python-course/introduction-to-data-analysis)
+  - [100 Projects with the 100 days Python Challenge (Udemy Course)](https://github.com/marine-raimbault/-Day18-Intermediate-Turtle-the-Graphical-User-Interface-GUI-)
+  - [Data Analysis with Python (Free Code Camp Course)](https://platform-ui.topcoder.com/learn/freeCodeCamp/data-analysis-with-python/data-analysis-with-python-course/introduction-to-data-analysis)
 
 - <b>C++</b> 
   - [RWTH Course: Einführung in die Programmierung in C++ (in German)](https://www.stce.rwth-aachen.de/teaching/winter-semester-2020-21/einfuhrung-in-die-programmierung-mit-c)
 
 - <b>JavaScript</b>
-    - [Free Code Camp Course: JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+    - [JavaScript Algorithms and Data Structures (Free Code Camp Course)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
   
 
 <!--
