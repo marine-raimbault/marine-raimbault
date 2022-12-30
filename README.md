@@ -8,9 +8,12 @@
 
 
 <!--
-- <b>This page is in development, I'm modifying it using following content: </b><a href="https://github.com/joshmadakor1/joshmadakor1/blob/main/README.md">Github with Joshmadakor</a>
+- <b> TODO : modify the Python 100 day challenge as soon as you did half of the 100 projects</b>
 -->
 
+- <b>Problem solving and Algorithms</b>
+  - [France IOI (french website to prepare for competitive programming)](http://www.france-ioi.org/user/perso.php?sLogin=marine-raimbault)
+  
 - <b>Python</b> 
   - [100 Projects with the 100 days Python Challenge (Udemy Course)](https://github.com/marine-raimbault/-Day18-Intermediate-Turtle-the-Graphical-User-Interface-GUI-)
   - [Data Analysis with Python (Free Code Camp Course)](https://platform-ui.topcoder.com/learn/freeCodeCamp/data-analysis-with-python/data-analysis-with-python-course/introduction-to-data-analysis)
@@ -21,7 +24,9 @@
 - <b>JavaScript</b>
     - [JavaScript Algorithms and Data Structures (Free Code Camp Course)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
   
-
+<!--
+- <b>This page is in development, I'm modifying it using following content: </b><a href="https://github.com/joshmadakor1/joshmadakor1/blob/main/README.md">Github with Joshmadakor</a> TODO: create a youtube channel to document your progress 
+-->
 <!--
 
 <h2>📺 Popular YouTube Videos</h2>
