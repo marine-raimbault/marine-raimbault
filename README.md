@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marine! <br/><a href="https://github.com/marine-raimbault">Programmer</a> and  <a href="put linkedin here">Medical student</a>
+<h1>Hi, I'm Marine! <br/><a href="https://github.com/marine-raimbault"> MATSE Student</a>
 
 <!--  
   , <a href="put yt link here">YouTuber</a></h1>
@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-
+  - Learning elixir
 <!--
 - <b> TODO : modify the Python 100 day challenge as soon as you did half of the 100 projects</b>
 -->
