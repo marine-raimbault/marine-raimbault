@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marine, <br/><a href="https://github.com/marine-raimbault"> MATSE Student !</a>
+<h1>Hi, I'm Marine, a <br/><a href="https://github.com/marine-raimbault"> MATSE Student !</a>
 
 <!--  
   , <a href="put yt link here">YouTuber</a></h1>
