@@ -7,9 +7,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
   - <b> Elixir </b>
-<!--
-- <b> TODO : modify the Python 100 day challenge as soon as you did half of the 100 projects</b>
--->
+    - []()
 
 - <b>Problem solving and Algorithms</b>
   - [France IOI (french website to prepare for competitive programming)](http://www.france-ioi.org/user/perso.php?sLogin=marine-raimbault)
