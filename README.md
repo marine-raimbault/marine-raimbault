@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - Learning elixir
+  - <b> Elixir </b>
 <!--
 - <b> TODO : modify the Python 100 day challenge as soon as you did half of the 100 projects</b>
 -->
