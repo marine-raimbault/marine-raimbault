@@ -7,7 +7,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
   - <b> Elixir </b>
-    - []()
+    - [Basics](https://codingbat.com/java)
+    - [Katas](https://kata-log.rocks/game-of-life-kata)
 
 - <b>Problem solving and Algorithms</b>
   - [France IOI (french website to prepare for competitive programming)](http://www.france-ioi.org/user/perso.php?sLogin=marine-raimbault)
