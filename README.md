@@ -1,8 +1,8 @@
-# Hi, I'm Marine, a <br/><a href="https://github.com/marine-raimbault"> MATSE Student !</a>
+## Hi, I'm Marine, a ![MATSE Student !](href="https://github.com/marine-raimbault")
 
 ## 👨‍💻 Software Development Projects:
 
-- # Elixir
+- ### Elixir
   - [Basics](https://codingbat.com/java)
   - [Katas](https://kata-log.rocks/game-of-life-kata)
 
