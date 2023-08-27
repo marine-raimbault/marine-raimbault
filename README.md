@@ -1,9 +1,9 @@
-## Hi, I'm Marine, a ![MATSE Student !](href="https://github.com/marine-raimbault")
+## Hi, I'm Marine, a [MATSE Student !](href="https://github.com/marine-raimbault") with a background in medicine 
 
 ## I'm documenting what I'm learning on my [YouTube Channel](https://www.youtube.com/@marineraimbault)
  Give me Feedback! ;)
  
-## 👨‍💻 Software Development Projects:
+## 👨‍💻 Current Software Development projects: 
 
 - ### Elixir
   - [Basics](https://codingbat.com/java)
