@@ -1,4 +1,4 @@
-## Hi, I'm Marine, a [MATSE Student !](href="https://github.com/marine-raimbault") with a background in medicine 
+## Hi, I'm Marine, a [MATSE Student](href="https://github.com/marine-raimbault") with a background in medicine :)
 
 ## I'm documenting what I'm learning on my [YouTube Channel](https://www.youtube.com/@marineraimbault)
  Give me Feedback! ;)
