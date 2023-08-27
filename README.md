@@ -1,7 +1,8 @@
 ## Hi, I'm Marine, a ![MATSE Student !](href="https://github.com/marine-raimbault")
 
-## I'm documenting what I'm learning on my [YouTube Channel] Give me Feedback! ;)(https://www.youtube.com/@marineraimbault)
-
+## I'm documenting what I'm learning on my [YouTube Channel](https://www.youtube.com/@marineraimbault)
+ Give me Feedback! ;)
+ 
 ## 👨‍💻 Software Development Projects:
 
 - ### Elixir
