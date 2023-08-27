@@ -1,4 +1,4 @@
-## Hi, I'm Marine, a [MATSE Student](https://www.rwth-aachen.de/cms/root/Die-RWTH/Arbeiten-an-der-RWTH/Berufsausbildung/Ausbildungsberufe/~vsa/Math-techn-Softwareentwickler/) with a background in medicine :)
+## Hi, I'm Marine, a [MATSE Student](https://www.rwth-aachen.de/cms/root/Die-RWTH/Arbeiten-an-der-RWTH/Berufsausbildung/Ausbildungsberufe/~vsa/Math-techn-Softwareentwickler/) with a background in medicine 
 
 ## I'm documenting what I'm learning on my [YouTube Channel](https://www.youtube.com/@marineraimbault)
  Give me Feedback! ;)
