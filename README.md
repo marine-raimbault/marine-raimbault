@@ -1,10 +1,13 @@
 ## Hi, I'm Marine, a ![MATSE Student !](href="https://github.com/marine-raimbault")
 
+## I'm documenting what I'm learning on my YouTube Channel: 
+
 ## 👨‍💻 Software Development Projects:
 
 - ### Elixir
   - [Basics](https://codingbat.com/java)
   - [Katas](https://kata-log.rocks/game-of-life-kata)
+  - (page in development...)
 
 <!--
 - **Problem Solving and Algorithms**
