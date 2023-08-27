@@ -1,6 +1,6 @@
 ## Hi, I'm Marine, a ![MATSE Student !](href="https://github.com/marine-raimbault")
 
-## I'm documenting what I'm learning on my YouTube Channel: 
+## I'm documenting what I'm learning on my [YouTube Channel] Give me Feedback! ;)(https://www.youtube.com/@marineraimbault)
 
 ## 👨‍💻 Software Development Projects:
 
