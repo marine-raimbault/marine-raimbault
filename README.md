@@ -1,14 +1,13 @@
-## Hi, I'm Marine, I am Marine, a [dual student (MATSE)](https://www.rwth-aachen.de/cms/root/Die-RWTH/Arbeiten-an-der-RWTH/Berufsausbildung/Ausbildungsberufe/~vsa/Math-techn-Softwareentwickler/) in applied math & informatics
-I'm currently based in Aachen Germany, and I enjoy programming!
-
-## I'm sharing what I learn on my [YouTube Channel](https://www.youtube.com/@marineraimbault)
- Give me Feedback! 😃
+## Hi there 😃
+- I'm Marine, I am Marine, a [dual student (MATSE)](https://www.rwth-aachen.de/cms/root/Die-RWTH/Arbeiten-an-der-RWTH/Berufsausbildung/Ausbildungsberufe/~vsa/Math-techn-Softwareentwickler/) in applied math & informatics with a background in medicine. I'm currently based in Aachen Germany, and I enjoy programming! 
+- I'm sharing what I learn on my [YouTube Channel](https://www.youtube.com/@marineraimbault).
+ Give me Feedback ;) ! 
  
 ## 📌 Current Videos: 
 - 🎥 [How to setup Elixir THE OPTIMAL WAY (including automatic test, formatting, TDD and more!)](https://www.youtube.com/watch?v=nPUbQJAPnQA)
 
-## 👨‍💻 Languages I'm currently focusing on:
-- ### 🌱 Elixir
+## 👨‍💻 Current Languages:
+- #### 🌱 Elixir
   - COMING SOON : a whole list of ressources to learn elixir (page in development...)
   - [Basics](https://codingbat.com/java)
   - [Katas](https://kata-log.rocks/game-of-life-kata)
