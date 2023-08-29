@@ -1,6 +1,6 @@
 ## Hi there 😃
 - I'm Marine, I am Marine, a [dual student (MATSE)](https://www.rwth-aachen.de/cms/root/Die-RWTH/Arbeiten-an-der-RWTH/Berufsausbildung/Ausbildungsberufe/~vsa/Math-techn-Softwareentwickler/) in applied math & informatics with a background in medicine. I'm currently based in Aachen Germany, and I enjoy programming! 
-- I'm sharing what I learn on my [YouTube Channel](https://www.youtube.com/@marineraimbault).
+- I share what I learn on my [YouTube Channel](https://www.youtube.com/@marineraimbault).
  Give me Feedback ;) ! 
  
 ## 📌 Current Videos: 
