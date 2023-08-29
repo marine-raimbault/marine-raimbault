@@ -3,10 +3,7 @@ I'm currently based in Aachen Germany, and I enjoy programming!
 
 ## I'm sharing what I learn on my [YouTube Channel](https://www.youtube.com/@marineraimbault)
  Give me Feedback! 😃
-
-MORE ABOUT THE CHANNEL :
-- Let's have some fun growing together! 🌱🚀 Suggest topics or ask questions in the comments 💬! 
-- You found a better way to do something ⚡? Please share it, your feedback is valuable! 😊
+ 
 ## 📌 Current Videos: 
 - 🎥 [How to setup Elixir THE OPTIMAL WAY (including automatic test, formatting, TDD and more!)](https://www.youtube.com/watch?v=nPUbQJAPnQA)
 
