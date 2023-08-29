@@ -1,14 +1,24 @@
-## Hi, I'm Marine, a [MATSE Dual-Student](https://www.rwth-aachen.de/cms/root/Die-RWTH/Arbeiten-an-der-RWTH/Berufsausbildung/Ausbildungsberufe/~vsa/Math-techn-Softwareentwickler/) with a background in medicine 
+## Hi, I'm Marine, I am Marine, a [dual student (MATSE)](https://www.rwth-aachen.de/cms/root/Die-RWTH/Arbeiten-an-der-RWTH/Berufsausbildung/Ausbildungsberufe/~vsa/Math-techn-Softwareentwickler/) in applied math & informatics 
+with a background in medicine, currently based in Aachen Germany and I enjoy programming!
 
-## I'm documenting what I'm learning on my [YouTube Channel](https://www.youtube.com/@marineraimbault)
- Give me Feedback! ;)
- 
-## 👨‍💻 Current Software Development projects: 
+## I'm sharing what I learn on my [YouTube Channel](https://www.youtube.com/@marineraimbault)
+ Give me Feedback! 😃
 
-- ### Elixir
+### MORE ABOUT THE CHANNEL :
+- I'm at the beginning of my software engineering journey 🧭 and I share what I learn along the way. 
+- Let's have some fun growing together! 🌱🚀 Suggest topics or ask questions in the comments 💬! 
+- For now, I'm focusing on the Elixir Programming Language, but I enjoy new ideas  😃
+- You found a better way to do something ⚡? Please share it, your feedback is valuable! 😊
+## 📌 Current Software Development projects: 
+- (page in development...)
+
+## 👨‍💻 Languages I'm currently focusing on:
+- ### 🌱 Elixir
+  - 🎥 [How to setup Elixir THE OPTIMAL WAY (including automatic test, formatting, TDD and more!)](https://www.youtube.com/watch?v=nPUbQJAPnQA)
+
+  - COMING SOON : a whole list of ressources to learn elixir (page in development...)
   - [Basics](https://codingbat.com/java)
   - [Katas](https://kata-log.rocks/game-of-life-kata)
-  - (page in development...)
 
 <!--
 - **Problem Solving and Algorithms**
