@@ -5,9 +5,7 @@ I'm currently based in Aachen Germany, and I enjoy programming!
  Give me Feedback! 😃
 
 ### MORE ABOUT THE CHANNEL :
-- I'm at the beginning of my software engineering journey 🧭 and I share what I learn along the way. 
 - Let's have some fun growing together! 🌱🚀 Suggest topics or ask questions in the comments 💬! 
-- For now, I'm focusing on the Elixir Programming Language, but I enjoy new ideas  😃
 - You found a better way to do something ⚡? Please share it, your feedback is valuable! 😊
 ## 📌 Current Software Development projects: 
 - (page in development...)
