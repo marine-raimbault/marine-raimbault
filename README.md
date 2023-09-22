@@ -10,11 +10,11 @@
 ## 👨‍💻 Current Languages (And ressources to learn them):
 - #### 🌱 Elixir
   - [Practice with Exercism 💪](https://exercism.org/tracks/elixir/concepts)
-  - [Free Book about Elixir](https://www.syncfusion.com/succinctly-free-ebooks/elixir-succinctly)
-  - [Coding Meditation (Elixir Koans)](https://github.com/elixirkoans/elixir-koans)
+  - [Free Book about Elixir 📚](https://www.syncfusion.com/succinctly-free-ebooks/elixir-succinctly)
+  - [Coding Meditation (Elixir Koans)🧘‍♂️](https://github.com/elixirkoans/elixir-koans)
 - #### ☕ Java
   - [Practice With CodingBat 💪](https://codingbat.com/java)
-  - [Katas](https://kata-log.rocks/game-of-life-kata)
+  - [Katas 🥋](https://kata-log.rocks/game-of-life-kata)
 
 <!--
 - **Problem Solving and Algorithms**
