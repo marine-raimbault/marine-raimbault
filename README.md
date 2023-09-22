@@ -7,13 +7,14 @@
 - 🎥 [Java Bootcamp Express 🚀: Learn Java in 12 Minutes!](https://www.youtube.com/watch?v=xIPODmdMp-8)
 - 🎥 [How to setup Elixir THE OPTIMAL WAY (including automatic test, formatting, TDD and more!)](https://www.youtube.com/watch?v=nPUbQJAPnQA)
 
-## 👨‍💻 Current Languages:
+## 👨‍💻 Current Languages (And ressources to learn them):
 - #### 🌱 Elixir
-  - COMING SOON : a whole list of ressources to learn elixir (page in development...)
   - [Practice with Exercism 💪](https://exercism.org/tracks/elixir/concepts)
-  - [Katas](https://kata-log.rocks/game-of-life-kata)
+  - [Free Book about Elixir](https://www.syncfusion.com/succinctly-free-ebooks/elixir-succinctly)
+  - [Coding Meditation (Elixir Koans)](https://github.com/elixirkoans/elixir-koans)
 - #### ☕ Java
   - [Practice With CodingBat 💪](https://codingbat.com/java)
+  - [Katas](https://kata-log.rocks/game-of-life-kata)
 
 <!--
 - **Problem Solving and Algorithms**
