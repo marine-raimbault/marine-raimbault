@@ -10,8 +10,10 @@
 ## 👨‍💻 Current Languages:
 - #### 🌱 Elixir
   - COMING SOON : a whole list of ressources to learn elixir (page in development...)
-  - [Basics](https://codingbat.com/java)
+  - [Practice with Exercism 💪](https://exercism.org/tracks/elixir/concepts)
   - [Katas](https://kata-log.rocks/game-of-life-kata)
+- #### ☕ Java
+  - [Practice With CodingBat 💪](https://codingbat.com/java)
 
 <!--
 - **Problem Solving and Algorithms**
