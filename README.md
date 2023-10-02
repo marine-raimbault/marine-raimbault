@@ -15,6 +15,9 @@
 - #### ☕ Java
   - [Practice With CodingBat 💪](https://codingbat.com/java)
   - [Katas 🥋](https://kata-log.rocks/game-of-life-kata)
+ 
+- #### 🐪 Perl
+  - [Practice with Exercism 💪](https://exercism.org/tracks/perl5)  
 
 <!--
 - **Problem Solving and Algorithms**
