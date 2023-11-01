@@ -4,7 +4,7 @@
  Give me Feedback ;) ! 
  
 ## 📌 Current Videos: 
-- 🎥 [Java Bootcamp Express 🚀: Learn Java in 12 Minutes!](https://www.youtube.com/watch?v=xIPODmdMp-8)
+- 🎥 [Leetcode And Daily Deliberate Practice 🚀](https://youtu.be/R1nzSq1Dzzg?feature=shared)
 - 🎥 [How to setup Elixir THE OPTIMAL WAY (including automatic test, formatting, TDD and more!)](https://www.youtube.com/watch?v=nPUbQJAPnQA)
 
 ## 👨‍💻 Current Languages (And ressources to learn them):
