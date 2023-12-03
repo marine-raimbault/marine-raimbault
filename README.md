@@ -19,6 +19,9 @@
 - #### 🐪 Perl
   - [Practice with Exercism 💪](https://exercism.org/tracks/perl5)  
 
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marine-raimbault\&layout=pie)](https://github.com/marine-raimbault/github-readme-stats)
 <!--
 - **Problem Solving and Algorithms**
   - [France IOI (Competitive Programming)](http://www.france-ioi.org/user/perso.php?sLogin=marine-raimbault)
