@@ -13,6 +13,7 @@
   - [Free Book about Elixir 📚](https://www.syncfusion.com/succinctly-free-ebooks/elixir-succinctly)
   - [Coding Meditation (Elixir Koans)🧘‍♂️](https://github.com/elixirkoans/elixir-koans)
 - #### ☕ Java
+- - [Practice with Exercism 💪](https://exercism.org/tracks/java)
   - [Practice With CodingBat 💪](https://codingbat.com/java)
   - [Katas 🥋](https://kata-log.rocks/game-of-life-kata)
  
