@@ -12,7 +12,7 @@
 ## 🛠️ Favourite Websites:
 - [Exercism](https://exercism.org/dashboard)
 - [Refactoring Guru](https://refactoring.guru/refactoring/how-to)
-- 
+- [Tailwind Colors](https://tailwindcss.com/docs/customizing-colors)
   
 ## 📚 Reading list:
 - [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
