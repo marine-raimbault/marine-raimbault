@@ -2,10 +2,22 @@
 - I am Marine, a [dual student (MATSE)](https://www.rwth-aachen.de/cms/root/Die-RWTH/Arbeiten-an-der-RWTH/Berufsausbildung/Ausbildungsberufe/~vsa/Math-techn-Softwareentwickler/) in applied math & informatics with a background in medicine. I'm currently based in Aachen Germany, and I enjoy programming! 
 - I share what I learn on my [YouTube Channel](https://www.youtube.com/@matseTV).
  Give me Feedback ;) ! 
- 
+
+ <!--
 ## 📌 Current Videos: 
 - 🎥 [Leetcode And Daily Deliberate Practice 🚀](https://youtu.be/R1nzSq1Dzzg?feature=shared)
 - 🎥 [How to setup Elixir THE OPTIMAL WAY (including automatic test, formatting, TDD and more!)](https://www.youtube.com/watch?v=nPUbQJAPnQA)
+-->
+
+## 🛠️ Favourite Websites:
+- [Exercism](https://exercism.org/dashboard)
+- [Refactoring Guru](https://refactoring.guru/refactoring/how-to)
+- 
+  
+## 📚 Reading list:
+- [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+- (currently reading: ) [Techniques of Program Structure and Design by Edward Yourdon](https://en.wikipedia.org/wiki/Edward_Yourdon)
+  
 
 ## 👨‍💻 Current Languages (And ressources to learn them):
 - #### 🌱 Elixir
