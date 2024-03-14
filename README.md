@@ -11,6 +11,7 @@
 
 ## 🛠️ Favourite Websites:
 - [Exercism](https://exercism.org/dashboard)
+- [Regex Trainer](https://regexone.com/)
 - [Refactoring Guru](https://refactoring.guru/refactoring/how-to)
 - [Tailwind Colors](https://tailwindcss.com/docs/customizing-colors)
   
