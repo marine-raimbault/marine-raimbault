@@ -12,7 +12,7 @@
 ## 🛠️ Favourite Websites:
 - [Exercism](https://exercism.org/dashboard)
 - [Regex Trainer](https://regexone.com/)
-- [Refactoring Guru](https://refactoring.guru/refactoring/how-to)
+- [Refactoring Guru](https://refactoring.guru/refactoring/how-to) also [design patterns](https://refactoring.guru/design-patterns/catalog)
 - [Tailwind Colors](https://tailwindcss.com/docs/customizing-colors)
   
 ## 📚 Reading list:
