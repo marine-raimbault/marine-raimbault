@@ -15,23 +15,33 @@
 - [Refactoring Guru](https://refactoring.guru/refactoring/how-to) also [design patterns](https://refactoring.guru/design-patterns/catalog)
 - [Tailwind Colors](https://tailwindcss.com/docs/customizing-colors)
   
-## 📚 Reading list:
-- [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
-- (currently reading: ) [Techniques of Program Structure and Design by Edward Yourdon](https://en.wikipedia.org/wiki/Edward_Yourdon)
-  
+##  🍿 Watching list:
+- Run With the Wind
 
-## 👨‍💻 Current Languages (And ressources to learn them):
-- #### 🌱 Elixir
-  - [Practice with Exercism 💪](https://exercism.org/tracks/elixir/concepts)
-  - [Free Book about Elixir 📚](https://www.syncfusion.com/succinctly-free-ebooks/elixir-succinctly)
-  - [Coding Meditation (Elixir Koans)🧘‍♂️](https://github.com/elixirkoans/elixir-koans)
-- #### ☕ Java
-- - [Practice with Exercism 💪](https://exercism.org/tracks/java)
-  - [Practice With CodingBat 💪](https://codingbat.com/java)
-  - [Katas 🥋](https://kata-log.rocks/game-of-life-kata)
- 
-- #### 🐪 Perl
-  - [Practice with Exercism 💪](https://exercism.org/tracks/perl5)  
+
+## 👨‍💻 Current Languages & Frameworks (And Resources to Learn Them)
+
+### 🌱 **Elixir**
+- [Practice with Exercism 💪](https://exercism.org/tracks/elixir/concepts)
+- [Free Book about Elixir 📚](https://www.syncfusion.com/succinctly-free-ebooks/elixir-succinctly)
+- [Coding Meditation (Elixir Koans) 🧘‍♂️](https://github.com/elixirkoans/elixir-koans)
+
+### 🔥 **Elixir LiveView & Phoenix**
+- [Official Phoenix Documentation 📚](https://hexdocs.pm/phoenix/)
+- [Phoenix LiveView Docs 📖](https://hexdocs.pm/phoenix_live_view/)
+  
+### ⚡ **Vue.js**
+- [Vue.js Official Guide 📚](https://vuejs.org/guide/)
+- [Learn Vue 3 in 3 Days 🧑‍💻](https://vuejs.org/)
+
+### ☕ **Java**
+- [Practice with Exercism 💪](https://exercism.org/tracks/java)
+- [Practice with CodingBat 💪](https://codingbat.com/java)
+- [Katas 🥋](https://kata-log.rocks/game-of-life-kata)
+
+### 🐪 **Perl**
+- [Practice with Exercism 💪](https://exercism.org/tracks/perl5)
+
 
 <!--
 ## Stats
