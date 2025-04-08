@@ -15,8 +15,6 @@
 - [Refactoring Guru](https://refactoring.guru/refactoring/how-to) also [design patterns](https://refactoring.guru/design-patterns/catalog)
 - [Tailwind Colors](https://tailwindcss.com/docs/customizing-colors)
   
-##  🍿 Watching list:
-- Run With the Wind
 
 
 ## 👨‍💻 Current Languages & Frameworks (And Resources to Learn Them)
@@ -32,7 +30,7 @@
   
 ### ⚡ **Vue.js**
 - [Vue.js Official Guide 📚](https://vuejs.org/guide/)
-- [Learn Vue 3 in 3 Days 🧑‍💻](https://vuejs.org/)
+- [Vue.js Official Fast Tutorial 🧑‍💻](https://vuejs.org/tutorial/#step-1)
 
 ### ☕ **Java**
 - [Practice with Exercism 💪](https://exercism.org/tracks/java)
@@ -42,6 +40,9 @@
 ### 🐪 **Perl**
 - [Practice with Exercism 💪](https://exercism.org/tracks/perl5)
 
+
+##  🍿☕ Watching list:
+- Run With the Wind
 
 <!--
 ## Stats
