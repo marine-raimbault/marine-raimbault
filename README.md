@@ -1,6 +1,6 @@
 # Marine 🏃‍♀️💻
 
-Runner, coder, marathon finisher. Aspiring Software Engineer with a med background.
+Runner, coder, avid reader. Aspiring Software Engineer with a med background.
 
 Currently obsessed with **Elixir** and **Phoenix LiveView**.
 
