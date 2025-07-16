@@ -1,4 +1,4 @@
-# Marine 🏃‍♀️💻
+# Marine 🏃‍♀️💻📖
 
 Runner, coder, avid reader. Aspiring Software Engineer with a med background.
 
