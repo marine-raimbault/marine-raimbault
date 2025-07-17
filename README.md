@@ -1,5 +1,5 @@
 # Marine 🏃‍♀️💻📖
-Runner, coder, avid reader. Aspiring Software Engineer with a medical background.
+Runner, problem solver (through coding), avid reader. Aspiring Software Engineer with a medical background.
 
 Passionate about making large-scale, intensive learning accessible to everyone.
 
