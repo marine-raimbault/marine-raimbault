@@ -10,8 +10,8 @@ I embrace the [green zone chicken philosophy](https://www.youtube.com/watch?v=vj
 
 ## Currently Working On
 - [YouTube: @matseTV](https://www.youtube.com/@matseTV) - sharing what I learn
-- 🎯 Creating measurable impact through clear, simple communication
-- ⚙️ Building, breaking, and learning continuously
+- 🎯 Cristal clear communication
+- ⚙️ Continuous learning
 - 🚑 Teaching first aid courses on weekends - practicing efficient communication while getting paid
 
 **Practicing**: DDD, TDD, Event Sourcing, CI/CD, Code Review, Pair Programming, Functional Programming, DevOps 
