@@ -3,7 +3,7 @@
 
 🏃‍♀️ Runner, 💻 problem solver (through coding), 📖 avid reader. Aspiring Software Engineer with a medical background.
 
-I strongly believe [humans are too good to just be good at one thing](https://www.youtube.com/watch?v=iVN7NyLK4FI) ⚡ -s eeking those breakthrough moments that connect different domains.
+I strongly believe [humans are too good to just be good at one thing](https://www.youtube.com/watch?v=iVN7NyLK4FI) ⚡ - seeking those breakthrough moments that connect different domains.
 
 I embrace the [green zone chicken philosophy](https://www.youtube.com/watch?v=vjSTNv4gyMM) - still practicing not reacting defensively! 😃
 
