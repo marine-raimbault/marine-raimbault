@@ -3,8 +3,7 @@
 
 🏃‍♀️ Runner, 💻 problem solver (through coding), 📖 avid reader. Aspiring Software Engineer with a medical background.
 
-I strongly believe [humans are too good to just be good at one thing](https://www.youtube.com/watch?v=iVN7NyLK4FI) ⚡ - we're built for multidisciplinary excellence.
-Seeking those breakthrough moments that connect different domains. I am passionate about making intensive learning accessible to everyone.
+I strongly believe [humans are too good to just be good at one thing](https://www.youtube.com/watch?v=iVN7NyLK4FI) ⚡ -s eeking those breakthrough moments that connect different domains.
 
 I embrace the [green zone chicken philosophy](https://www.youtube.com/watch?v=vjSTNv4gyMM) - still practicing not reacting defensively! 😃
 
@@ -22,7 +21,6 @@ I embrace the [green zone chicken philosophy](https://www.youtube.com/watch?v=vj
 **Languages**: 
 - Fluent: 🇺🇸 English | 🇫🇷 French | 🇩🇪 German  
 - Intermediate: 🇪🇸 Spanish  
-- Basic: 🇮🇹 Italian | 🇷🇺 Russian | 🇨🇳 Chinese | 🇯🇵 Japanese | 🇮🇳 Hindi | 🇮🇳 Tamil
 
 ## Quick Links
 [Exercism](https://exercism.org/dashboard) • [Regex Trainer](https://regexone.com/) • [CSS Diner](https://cssdiner.com/)
