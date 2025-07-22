@@ -12,7 +12,7 @@ I embrace the [green zone chicken philosophy](https://www.youtube.com/watch?v=vj
 - [YouTube: @matseTV](https://www.youtube.com/@matseTV) - sharing what I learn
 - 🎯 Cristal clear communication
 - ⚙️ Continuous learning
-- 🚑 Teaching first aid courses on weekends - practicing efficient communication while getting paid
+- 🚑 Teaching first aid courses on weekends - practicing efficient communication
 
 **Practicing**: DDD, TDD, Event Sourcing, CI/CD, Code Review, Pair Programming, Functional Programming, DevOps 
 
