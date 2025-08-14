@@ -10,13 +10,9 @@ I embrace the [green zone chicken philosophy](https://www.youtube.com/watch?v=vj
 
 ## Currently Working On
 - [YouTube: @matseTV](https://www.youtube.com/@matseTV) - sharing what I learn
-- 🎯 Cristal clear communication
-- ⚙️ Continuous learning
 - 🚑 Teaching first aid courses on weekends - practicing efficient communication
-
-**Practicing**: DDD, TDD, Event Sourcing, CI/CD, Code Review, Pair Programming, Functional Programming, DevOps 
-
-**Tech Stack**: Elixir, Vue.js, TypeScript, Kubernetes (working toward CKAD 🌱)
+- **Practicing**: DDD, TDD, Event Sourcing, CI/CD, Code Review, Pair Programming, Functional Programming, DevOps, Kubernetes (working toward CKAD 🌱)
+- **Growing Tech Stack**: Elixir, Vue.js, TypeScript
 
 **Languages**: 
 - Fluent: 🇺🇸 English | 🇫🇷 French | 🇩🇪 German  
