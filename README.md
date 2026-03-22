@@ -21,7 +21,7 @@ I embrace the [green zone chicken philosophy](https://www.youtube.com/watch?v=vj
 ## Quick Links
 [Exercism](https://exercism.org/dashboard) • [Regex Trainer](https://regexone.com/) • [CSS Diner](https://cssdiner.com/)
 
-**Recommend**: 🍿 *Run With the Wind* • 📚 *Homo Deus* by Yuval Noah Harari • *Pantheon* 🍿
+**Recommend**: 🍿 *Run With the Wind* • 📚 *Homo Deus* by Yuval Noah Harari • 
 
 ---
 Proudly working at **Modell Aachen GmbH** 💼. 
