@@ -1,30 +1,14 @@
 # Marine 🌊
 *"Knowledge is like a flame; the more you share it, the brighter it burns."* 🔥
 
-🏃‍♀️ Runner, 💻 problem solver (through coding), 📖 avid reader. Aspiring Software Engineer with a medical background.
+Software Engineer bridging Legacy Perl to Elixir/Vue/TS. Runner, reader, first aid instructor.
 
-I strongly believe [humans are too good to just be good at one thing](https://www.youtube.com/watch?v=iVN7NyLK4FI) ⚡ - seeking those breakthrough moments that connect different domains.
+## What I'm Working On
+- Documenting the Perl → Elixir migration journey
+- Practicing DDD, TDD, and Event Sourcing in production
+- Growing: Elixir, Vue.js, TypeScript, Kubernetes
 
-I embrace the [green zone chicken philosophy](https://www.youtube.com/watch?v=vjSTNv4gyMM) - still practicing not reacting defensively! 😃
-
-
-## Currently Working On
-- [YouTube: @MarineRaimbault](https://www.youtube.com/@MarineRaimbault) - sharing what I learn
-- 🚑 Teaching first aid courses on weekends - practicing efficient communication
-- **Practicing**: DDD, TDD, Event Sourcing, CI/CD, Code Review, Pair Programming, Functional Programming, DevOps, Kubernetes (working toward CKAD 🌱)
-- **Growing Tech Stack**: Elixir, Vue.js, TypeScript
-
-**Languages**: 
-- Fluent: 🇺🇸 English | 🇫🇷 French | 🇩🇪 German  
-- Intermediate: 🇪🇸 Spanish  
-
-## Quick Links
-[Exercism](https://exercism.org/dashboard) • [Regex Trainer](https://regexone.com/) • [CSS Diner](https://cssdiner.com/)
-
-**Recommend**: 🍿 *Run With the Wind* • 📚 *Homo Deus* by Yuval Noah Harari • 
-
----
-Proudly working at **Modell Aachen GmbH** 💼. 
-Interested in working there? Check [this](https://www.modell-aachen.de/karriere/senior-software-engineer) out (German >= C1 level required).
-
-*Aachen, Germany* 📍
+## Find Me
+- [Blog](https://marine-raimbault.github.io/)
+- [YouTube](https://www.youtube.com/@MarineRaimbault/)
+- [LinkedIn](https://www.linkedin.com/in/marine-raimbault-06372b273/)
