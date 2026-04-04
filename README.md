@@ -8,6 +8,9 @@ Software Engineer bridging Legacy Perl to Elixir/Vue/TS. Runner, reader, first a
 - Practicing DDD, TDD, and Event Sourcing in production
 - Growing: Elixir, Vue.js, TypeScript, Kubernetes
 
+## Lists
+- [All my gists](https://gist.github.com/marine-raimbault/91a41ec487302ed80c545d835d19e35f) — reading lists, kata trackers, and more
+
 ## Find Me
 - [Blog](https://marine-raimbault.github.io/)
 - [YouTube](https://www.youtube.com/@MarineRaimbault/)
