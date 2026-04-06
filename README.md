@@ -6,7 +6,7 @@ Software Engineer bridging Legacy Perl to Elixir/Vue/TS. Runner, reader, first a
 ## What I'm Working On
 - Documenting the Perl → Elixir migration journey
 - Practicing DDD, TDD, and Event Sourcing in production
-- Growing: Elixir, Vue.js, TypeScript, Kubernetes
+- Growing: Perl, Elixir, Vue.js, TypeScript, Kubernetes
 
 ## Lists
 - [All my gists](https://gist.github.com/marine-raimbault/91a41ec487302ed80c545d835d19e35f) — reading lists, kata trackers, and more
